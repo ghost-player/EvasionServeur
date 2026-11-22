@@ -424,3 +424,12 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Base de données locale (sécurité)
+*.db
+*.sqlite
+*.sqlite3
